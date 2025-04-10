@@ -112,8 +112,10 @@ Have suggestions or need help? Here’s how you can get involved:
 
 ## 📧 Contact Us
 
-For additional support, join our community on [Telegram](https://t.me/cryptotrading2150) or reach out via GitHub discussions.
+📞For additional support, join our community on [Telegram](https://t.me/cryptotrading2150) or reach out via GitHub discussions.
 
 ---
 
 Unleash the power of **Raydium Sniper Bot** today and redefine your trading experience!
+🏆 After using or visiting that, Please give me big 🌟 😃
+
