@@ -62,7 +62,7 @@ Unlock the full potential of your trading strategy with **Raydium Sniper Bot**, 
 3. Clone and build the bot (CMD):
    ```bash
    git clone https://github.com/highgoal215/Pump-Raydium-sniper-bot.git
-   cd Raydium-Sol-Sniper-Bot
+   cd Pump-Raydium-sniper-bot
    npm install
    npm start
    ```
